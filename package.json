@@ -11,6 +11,22 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "quasar",
+        "vue"
+    ],
+    "galleryBanner": {
+		"color": "#71593d",
+		"theme": "dark"
+	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sacramentix/quasar-v2-extension-pack"
+    },
+    "homepage": "https://github.com/Sacramentix/quasar-v2-extension-pack",
+    "bugs": {
+      "url": "https://github.com/Sacramentix/quasar-v2-extension-pack/issues"
+    },
     "extensionPack": [ 
         "abdelaziz18003.quasar-snippets", 
         "aeschli.vscode-css-formatter", 
