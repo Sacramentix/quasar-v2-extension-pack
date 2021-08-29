@@ -1,71 +1,74 @@
 {
-    "name": "quasar-v2-extension-pack",
-    "displayName": "Quasar V2 Extension pack 📦",
-    "description": "Unofficial extension pack for Quasar V2 📦",
-    "version": "2.0.0",
-    "publisher": "sacramentix",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "keywords": [
-        "quasar",
-        "vue"
-    ],
-    "galleryBanner": {
+	"name": "quasar-v2-extension-pack",
+	"displayName": "Quasar V2 Extension pack 📦",
+	"description": "Unofficial extension pack for Quasar V2 📦",
+	"version": "2.0.0",
+	"publisher": "sacramentix",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"quasar",
+		"vue"
+	],
+	"galleryBanner": {
 		"color": "#71593d",
 		"theme": "dark"
 	},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Sacramentix/quasar-v2-extension-pack"
-    },
-    "homepage": "https://github.com/Sacramentix/quasar-v2-extension-pack",
-    "bugs": {
-      "url": "https://github.com/Sacramentix/quasar-v2-extension-pack/issues"
-    },
-    "extensionPack": [ 
-        "abdelaziz18003.quasar-snippets", 
-        "aeschli.vscode-css-formatter", 
-        "christian-kohler.npm-intellisense", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "dannyconnell.split-html-attributes", 
-        "dariofuzinato.vue-peek", 
-        "dbaeumer.vscode-eslint", 
-        "dennisvhest.npm-browser", 
-        "donjayamanne.githistory", 
-        "eamodio.gitlens", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "firefox-devtools.vscode-firefox-debug", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-complete-tag", 
-        "formulahendry.auto-rename-tag", 
-        "funkyremi.vscode-google-translate", 
-        "Gruntfuggly.todo-tree", 
-        "helixquar.randomeverything", 
-        "jack89ita.open-file-from-path", 
-        "johnsoncodehk.volar", 
-        "kisstkondoros.vscode-gutter-preview", 
-        "lacroixdavid1.vscode-format-context-menu", 
-        "mikeburgh.xml-format", 
-        "mrmlnc.vscode-attrs-sorter", 
-        "rid9.datetime", 
-        "sibiraj-s.vscode-scss-formatter", 
-        "SimonSiefke.svg-preview", 
-        "sporiley.css-auto-prefix", 
-        "steoates.autoimport", 
-        "syler.sass-indented", 
-        "techer.open-in-browser", 
-        "tht13.html-preview-vscode", 
-        "vincaslt.highlight-matching-tag", 
-        "vscode-icons-team.vscode-icons", 
-        "wayou.vscode-todo-highlight", 
-        "wix.vscode-import-cost", 
-        "ysemeniuk.emmet-live", 
-        "yzhang.markdown-all-in-one"
-    ]
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sacramentix/quasar-v2-extension-pack"
+	},
+	"homepage": "https://github.com/Sacramentix/quasar-v2-extension-pack",
+	"bugs": {
+		"url": "https://github.com/Sacramentix/quasar-v2-extension-pack/issues"
+	},
+	"extensionPack": [
+		"abdelaziz18003.quasar-snippets",
+		"aeschli.vscode-css-formatter",
+		"christian-kohler.npm-intellisense",
+		"CoenraadS.bracket-pair-colorizer",
+		"dannyconnell.split-html-attributes",
+		"dariofuzinato.vue-peek",
+		"dbaeumer.vscode-eslint",
+		"dennisvhest.npm-browser",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"eg2.vscode-npm-script",
+		"esbenp.prettier-vscode",
+		"firefox-devtools.vscode-firefox-debug",
+		"formulahendry.auto-complete-tag",
+		"funkyremi.vscode-google-translate",
+		"Gruntfuggly.todo-tree",
+		"helixquar.randomeverything",
+		"jack89ita.open-file-from-path",
+		"johnsoncodehk.volar",
+		"kisstkondoros.vscode-gutter-preview",
+		"lacroixdavid1.vscode-format-context-menu",
+		"mikeburgh.xml-format",
+		"mrmlnc.vscode-attrs-sorter",
+		"rid9.datetime",
+		"sibiraj-s.vscode-scss-formatter",
+		"SimonSiefke.svg-preview",
+		"sporiley.css-auto-prefix",
+		"steoates.autoimport",
+		"syler.sass-indented",
+		"techer.open-in-browser",
+		"tht13.html-preview-vscode",
+		"vincaslt.highlight-matching-tag",
+		"vscode-icons-team.vscode-icons",
+		"wayou.vscode-todo-highlight",
+		"wix.vscode-import-cost",
+		"ysemeniuk.emmet-live",
+		"yzhang.markdown-all-in-one"
+	],
+	"__metadata": {
+		"id": "d9937ca3-1cfc-4cf7-8da4-0832e8df1ae7",
+		"publisherDisplayName": "sacramentix",
+		"publisherId": "cbd003b4-5fd7-4127-bfcd-59100949ddab"
+	}
 }
