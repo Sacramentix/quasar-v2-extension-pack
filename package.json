@@ -2,7 +2,7 @@
 	"name": "quasar-v2-extension-pack",
 	"displayName": "Quasar V2 Extension pack 📦",
 	"description": "Unofficial extension pack for Quasar V2 📦",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"publisher": "sacramentix",
 	"icon": "icon.png",
 	"engines": {
@@ -16,7 +16,7 @@
 		"vue"
 	],
 	"galleryBanner": {
-		"color": "#71593d",
+		"color": "#af8f68",
 		"theme": "dark"
 	},
 	"repository": {
